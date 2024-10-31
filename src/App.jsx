@@ -1,5 +1,7 @@
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div className='bg-primary w-full overflow-hidden text-cyan-100'>Hello</div>
+  );
 };
 
 export default App;
